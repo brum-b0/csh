@@ -1,0 +1,3 @@
+cat makefile
+ls -al
+echo "testing echo in batch mode"
